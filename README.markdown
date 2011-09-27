@@ -1,4 +1,4 @@
-# RSpec TextMate Bundle
+# RubyDebug TextMate Bundle
 
 ## Installation
 
@@ -7,6 +7,25 @@
     git clone git://github.com/DMajrekar/RubyDebug-tmbundle.git RubyDebug.tmbundle
     osascript -e 'tell app "TextMate" to reload bundles'
 
+## Snippets
+
+### debug
+
+Prints the current filename and line number to STDOUT
+
+### debugc
+
+Prints the current filename and line number with an additional argument to STDOUT
+
+### debugt
+
+Prints the current filename and line number with the current Kernel trace to STDOUT
+
+### ldebug
+
+Logs the current file, line number and additional argument to logger.debug
+
 ## Contributors
 
-turbogeek421
+* DMajrekar
+* turbogeek421
