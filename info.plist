@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Debug</string>
+	<string>Ruby Debug</string>
 	<key>ordering</key>
 	<array>
 		<string>E3CD3F67-2C73-44CB-BC60-1E095127D249</string>
