@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>debugc</string>
 	<key>scope</key>
-	<string>ruby</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>debugc</string>
 	<key>uuid</key>
