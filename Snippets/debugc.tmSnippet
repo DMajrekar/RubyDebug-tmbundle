@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>puts "\n#{__FILE__}:#{__LINE__} -- #{${1}}\n"</string>
+	<key>name</key>
+	<string>debugc</string>
+	<key>scope</key>
+	<string>ruby</string>
+	<key>tabTrigger</key>
+	<string>debugc</string>
+	<key>uuid</key>
+	<string>5E8B46AB-E9EE-46AB-9318-ADE96F4C6E9A</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>puts "\n&lt;pre&gt;\n#{__FILE__}:#{__LINE__}\n#{Kernel.caller.join("\n")}\n&lt;/pre&gt;\n"</string>
+	<key>name</key>
+	<string>debugt</string>
+	<key>scope</key>
+	<string>ruby</string>
+	<key>tabTrigger</key>
+	<string>debugt</string>
+	<key>uuid</key>
+	<string>E3CD3F67-2C73-44CB-BC60-1E095127D249</string>
+</dict>
+</plist>

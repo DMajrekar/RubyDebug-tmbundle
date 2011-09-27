@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Debug</string>
+	<key>ordering</key>
+	<array>
+		<string>E3CD3F67-2C73-44CB-BC60-1E095127D249</string>
+		<string>5E8B46AB-E9EE-46AB-9318-ADE96F4C6E9A</string>
+		<string>65033EFE-AE29-4408-B276-0D825D181DA2</string>
+		<string>67892596-0297-4CA8-AF85-1726BF1E41ED</string>
+	</array>
+	<key>uuid</key>
+	<string>76054261-83B6-4C07-988F-1D0532BDAD98</string>
+</dict>
+</plist>
