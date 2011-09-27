@@ -4,7 +4,7 @@
 
     mkdir -p ~/Library/Application\ Support/TextMate/Bundles/
     cd ~/Library/Application\ Support/TextMate/Bundles/
-    git clone git://github.com/DMajrekar/RubyDebug-tmbundle.git RubyDebug.tmbundle
+    git clone git://github.com/DMajrekar/RubyDebug-tmbundle.git Ruby\ Debug.tmbundle
     osascript -e 'tell app "TextMate" to reload bundles'
 
 ## Snippets
